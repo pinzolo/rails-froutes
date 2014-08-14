@@ -1,5 +1,8 @@
 # rails-froutes
 
+[![Build Status](https://secure.travis-ci.org/pinzolo/rails-froutes.png)](http://travis-ci.org/pinzolo/rails-froutes)
+[![Coverage Status](https://coveralls.io/repos/pinzolo/rails-froutes/badge.png)](https://coveralls.io/r/pinzolo/rails-froutes)
+
 This gem fills route name displayed by `rake routes` task.
 
 ## Overview
