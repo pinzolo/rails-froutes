@@ -70,6 +70,11 @@ Or install it yourself as:
 1. Install `rails-froutes` (See **Installation** section)
 1. Run `rake routes FILL_NAME=yes`
 
+## Supported versions
+
+- Ruby: 1.9.3, 2.0.0, 2.1.2
+- Rails: 3.2.x, 4.0.x, 4.1.x
+
 ## Contributing
 
 1. Fork it ( https://github.com/pinzolo/rails-froutes/fork )
