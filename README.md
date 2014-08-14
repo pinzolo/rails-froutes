@@ -67,7 +67,7 @@ Or install it yourself as:
 
 ## Usage
 
-1. Install `rails-froutes` (See **Installation** section)
+1. Install `rails-froutes` (See [Installation](#installation) section)
 1. Run `rake routes FILL_NAME=yes`
 
 ## Supported versions
