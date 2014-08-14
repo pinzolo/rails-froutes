@@ -1,4 +1,4 @@
-# Rails::Froutes
+# rails-froutes
 
 This gem fills route name displayed by `rake routes` task.
 
