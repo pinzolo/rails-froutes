@@ -1,5 +1,5 @@
-require "rails/froutes/routes_inspector_patch"
-require "rails/froutes/version"
+require 'rails/froutes/routes_inspector_patch'
+require 'rails/froutes/version'
 
 if Rails::VERSION::MAJOR == 4
   require 'action_dispatch/routing/inspector'

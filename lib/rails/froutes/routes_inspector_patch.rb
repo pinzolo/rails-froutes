@@ -1,3 +1,6 @@
+require 'active_support/concern'
+require 'active_support/core_ext'
+
 module Rails
   module Froutes
     module RoutesInspectorPatch
