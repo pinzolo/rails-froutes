@@ -10,11 +10,7 @@ require 'rails'
 if Rails::VERSION::MAJOR == 4
   require 'active_support/testing/autorun'
 else
-  begin
-    require 'minitest'
-  rescue LoadError
-    require 'test/unit'
-  end
+  require 'minitest'
 end
 require 'mocha/setup'
 require 'rails/froutes'
