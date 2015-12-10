@@ -75,8 +75,8 @@ Or install it yourself as:
 
 ## Supported versions
 
-- Ruby: 1.9.3, 2.0.0, 2.1.2
-- Rails: 3.2.x, 4.0.x, 4.1.x
+- Ruby: 1.9.3, 2.0.0, 2.1.x, 2.2.x
+- Rails: 3.2.x, 4.0.x, 4.1.x, 4.2.x
 
 ## Contributing
 

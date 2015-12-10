@@ -3,7 +3,7 @@ require 'test_helper'
 if Rails::VERSION::MAJOR != 4
   module Rails
     class Application
-      class RouteInspectorTest < Test::Unit::TestCase
+      class RouteInspectorTest < ActiveSupport::TestCase
         def setup
           @set = ActionDispatch::Routing::RouteSet.new
           @inspector = Rails::Application::RouteInspector.new
